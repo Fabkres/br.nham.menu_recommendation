@@ -1,0 +1,33 @@
+services:
+  api:
+    build:
+      context: ./recommendation_sys
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8080
+    volumes:
+      - ./recommendation_sys:/app
+    networks:
+      - services-network
+  data:
+    build:
+      context: ./recommendation_sys
+      dockerfile: DataDockerfile
+    ports:
+      - 3001:3001
+    volumes:
+      - ./recommendation_sys:/app
+    networks:
+      - services-network
+
+  nginx:
+    build: ./nginx
+    ports:
+      - 8081:80
+    depends_on:
+      - api
+    networks:
+      - services-network
+
+networks:
+  services-network:

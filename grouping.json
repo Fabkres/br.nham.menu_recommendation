@@ -1,0 +1,448 @@
+{
+    "grouping": [
+        {
+          "id": 1,
+          "name": "BEBIDAS",
+          "items": [
+            {
+              "code": "491",
+              "name": "Achocolatado em pó",
+              "gramsPortion": 22,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "511",
+              "name": "Café em pó",
+              "gramsPortion": 20,
+              "homemadePortion": "1, Unidade"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "CARBO1",
+          "items": [
+            {
+              "code": "3",
+              "name": "Arroz branco",
+              "gramsPortion": 117,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "40",
+              "name": "Massa de macarrão para sopa",
+              "gramsPortion": 90,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "630010199",
+              "name": "Arroz parboilizado",
+              "gramsPortion": 117,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "850190299",
+              "name": "Milho para mungunzá",
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "CARBO2",
+          "items": [
+            {
+              "code": "89",
+              "name": "Batata doce",
+              "gramsPortion": 155,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "126",
+              "name": "Inhame",
+              "gramsPortion": 101,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "130",
+              "name": "Macaxeira à vacuo",
+              "gramsPortion": 98,
+              "homemadePortion": "1, Unidade"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "COND",
+          "items": [
+            {
+              "gramsPortion": 20,
+              "homemadePortion": "1, Unidade",
+              "code": "158",
+              "name": "Extrato de tomate"
+            },
+            {
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade",
+              "code": "523",
+              "name": "Leite de coco"
+            },
+            {
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade",
+              "code": "660010199",
+              "name": "Coco seco ralado"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "FARINHAS",
+          "items": [
+            {
+              "code": "7",
+              "name": "Aveia em flocos finos",
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "35",
+              "name": "Farinha de trigo branca com fermento",
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "42",
+              "name": "Maisena",
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "43",
+              "name": "Fubá de milho",
+              "gramsPortion": 80,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "122",
+              "name": "Farinha de mandioca",
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "650080299",
+              "name": "Farinha de milho floco para cuscuz",
+              "gramsPortion": 90,
+              "homemadePortion": "1, Unidade"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "FRUTAS",
+          "items": [
+            {
+              "gramsPortion": 137.5,
+              "homemadePortion": "1, Unidade",
+              "code": "164",
+              "name": "Abacaxi"
+            },
+            {
+              "gramsPortion": 70.7,
+              "homemadePortion": "1, Unidade",
+              "code": "182",
+              "name": "Banana prata"
+            },
+            {
+              "gramsPortion": 159.4,
+              "homemadePortion": "1, Unidade",
+              "code": "208",
+              "name": "Laranja"
+            },
+            {
+              "gramsPortion": 159.8,
+              "homemadePortion": "1, Unidade",
+              "code": "225",
+              "name": "Mamão"
+            },
+            {
+              "gramsPortion": 193.3,
+              "homemadePortion": "1, Unidade",
+              "code": "235",
+              "name": "Melancia"
+            },
+            {
+              "gramsPortion": 190,
+              "homemadePortion": "1, Unidade",
+              "code": "251",
+              "name": "Tangerina"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "HORTALICAS",
+          "items": [
+            {
+              "code": "69",
+              "name": "Abóbora",
+              "gramsPortion": 65,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "78",
+              "name": "Alface",
+              "gramsPortion": 50.9,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "82",
+              "name": "Alho",
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "92",
+              "name": "Batata inglesa",
+              "gramsPortion": 40,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "98",
+              "name": "Beterraba",
+              "gramsPortion": 44,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "107",
+              "name": "Cebola",
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "108",
+              "name": "Cebolinha",
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "110",
+              "name": "Cenoura",
+              "gramsPortion": 46.7,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "113",
+              "name": "Chuchu",
+              "gramsPortion": 70.5,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "114",
+              "name": "Coentro",
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "115",
+              "name": "Couve",
+              "gramsPortion": 17.5,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "144",
+              "name": "Pimentão",
+              "gramsPortion": 21.5,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "147",
+              "name": "Quiabo",
+              "gramsPortion": 49.8,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "157",
+              "name": "Tomate",
+              "gramsPortion": 25.1,
+              "homemadePortion": "1, Unidade"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "LEGUM",
+          "items": [
+            {
+              "code": "562",
+              "name": "Feijão carioquinha",
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "LEITES",
+          "items": [
+            {
+              "code": "458",
+              "name": "Leite fluido UHT",
+              "gramsPortion": 75,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "459",
+              "name": "Leite em pó",
+              "gramsPortion": 10.8,
+              "homemadePortion": "1, Unidade"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "NAD",
+          "items": [
+            {
+              "code": "492",
+              "name": "Açúcar cristal",
+              "gramsPortion": 10,
+              "homemadePortion": "1, Unidade"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "OLEOS",
+          "items": [
+            {
+              "code": "261",
+              "name": "Manteiga",
+              "gramsPortion": 10,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "272",
+              "name": "Óleo de soja",
+              "gramsPortion": 5,
+              "homemadePortion": "1, Unidade"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "PANIFICADOS",
+          "items": [
+            {
+              "code": "8",
+              "name": "Biscoito doce",
+              "gramsPortion": 30,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "13",
+              "name": "Biscoito salgado",
+              "gramsPortion": 31.3,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "61",
+              "name": "Milho de pipoca",
+              "gramsPortion": 100,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "690320299",
+              "name": "Pé de moleque",
+              "gramsPortion": 30,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "800010399",
+              "name": "Pão tipo hot dog",
+              "gramsPortion": 50.5,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "800150199",
+              "name": "Pão de macaxeira",
+              "gramsPortion": 42.2,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "800460199",
+              "name": "Bolo caseiro",
+              "gramsPortion": 45,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "801060199",
+              "name": "Bolo de banana",
+              "gramsPortion": 45,
+              "homemadePortion": "1, Unidade"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "PROTEINA ANIMAL",
+          "items": [
+            {
+              "code": "319",
+              "name": "Sardinha em conserva",
+              "gramsPortion": 62,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "352",
+              "name": "Carne bovina moída",
+              "gramsPortion": 52,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "353",
+              "name": "Carne bovina salgada",
+              "gramsPortion": 50,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "397",
+              "name": "Franco (coxa e sobrecoxa)",
+              "gramsPortion": 93,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "409",
+              "name": "Filé de peito de frango",
+              "gramsPortion": 95,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "489",
+              "name": "Ovo",
+              "gramsPortion": 75,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "71025011",
+              "name": "Fígado ",
+              "gramsPortion": 70,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "71091011",
+              "name": "Carne bovina congelada",
+              "gramsPortion": 80,
+              "homemadePortion": "1, Unidade"
+            },
+            {
+              "code": "74001011",
+              "name": "Filé de peixe",
+              "gramsPortion": 125,
+              "homemadePortion": "1, Unidade"
+            }
+          ]
+        }
+      ]
+}
